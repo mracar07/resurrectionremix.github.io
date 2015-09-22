@@ -3,7 +3,7 @@ Website - Resurrection Remix ® ROM
 
 
 The website can be accessed through the following URL:
-> - http://www.resurrectionremix.github.io/
+> - http://resurrectionremix.github.io/
 
 
 ####Resources
