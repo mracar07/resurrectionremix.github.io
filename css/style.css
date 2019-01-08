@@ -334,7 +334,7 @@ ul#menu-main>li>a {
 ul#menu-main>li>a:hover {
     background: #c82428;
     padding: 9px 15px;
-    border-radius: 3px;
+    border-radius: 28px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
 }
@@ -899,6 +899,7 @@ hr.featurette-divider {
 footer {
     text-align: center;
     color: #ffffff;
+    letter-spacing: 4px;
     font-weight: bold;
 }
 
@@ -941,7 +942,7 @@ footer p {
     border: 0;
     font-family: 'Roboto Condensed', monospace;
     opacity: 0.4;
-    border-radius: 0;
+    border-radius: 24;
 }
 
 .carousel-control:link, .carousel-control:visited {
@@ -999,6 +1000,7 @@ footer p {
     width: 225px;
     height: 20px;
     text-shadow: none;
+    letter-spacing: 3px;
     font-size: 1.3125em;
     /* 21px */
     padding: 1em 0.25em;
@@ -1007,21 +1009,23 @@ footer p {
     display: block;
     border: 0;
     text-transform: none;
-    background: #c82428 !important;
-    border-radius: 3px;
-    -moz-border-radius: 3px;
-    -webkit-border-radius: 3px;
+    background: #151515 !important;
+    border-radius: 36px;
+    -moz-border-radius: 36px;
+    -webkit-border-radius: 36px;
     box-shadow: none;
     -moz-box-shadow: none;
     -webkit-box-shadow: none;
+    font-style: bold;
 }
 
 .btn:link, .btn:visited {
-    color: #fff;
+    color: #c82428;
+    font-style: bold;
 }
 
 .btn:hover {
-    background: #010101 !important;
+    background: #212121 !important;
 }
 
 .navbar-inverse .btn-navbar {
