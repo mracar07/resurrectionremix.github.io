@@ -130,7 +130,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    color: #F1505A;
+    color: #212121;
     text-decoration: underline;
 }
 
@@ -295,7 +295,7 @@ em {
 
 .navbar .brand a:hover {
     text-decoration: none;
-    color: #c82428;
+    color: #212121;
     transition: color .15s linear;
     -webkit-transition: color .15s linear;
     -moz-transition: color .15s linear;
@@ -332,7 +332,7 @@ ul#menu-main>li>a {
 }
 
 ul#menu-main>li>a:hover {
-    background: #c82428;
+    background: #212121;
     padding: 9px 15px;
     border-radius: 28px;
     -webkit-border-radius: 3px;
@@ -426,7 +426,7 @@ ul#menu-main>li>a:hover {
 }
 
 #headerwrap input[type=submit]:hover, #headerwrap input[type=submit]:active {
-    background: #43413e !important;
+    background: #212121 !important;
 }
 
 
@@ -611,7 +611,7 @@ section#features .span3 {
 
 section#features .span3:hover {
     color: #ffffff;
-    background: #010101;
+    background: #212121;
     box-shadow: 1px 1px 6px #000000;
 }
 
@@ -844,7 +844,7 @@ section#credits h2.featurette-heading {
 }
 
 #theme-form input[type=submit]:hover, #theme-form input[type=submit]:active {
-    background: #43413e !important;
+    background: #212121 !important;
 }
 
 #theme-form textarea {
@@ -899,7 +899,7 @@ hr.featurette-divider {
 footer {
     text-align: center;
     color: #ffffff;
-    letter-spacing: 4px;
+    letter-spacing: 1px;
     font-weight: bold;
 }
 
@@ -1016,7 +1016,7 @@ footer p {
     box-shadow: none;
     -moz-box-shadow: none;
     -webkit-box-shadow: none;
-    font-style: bold;
+    font-weight: bold;
 }
 
 .btn:link, .btn:visited {
