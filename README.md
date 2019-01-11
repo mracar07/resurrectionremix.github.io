@@ -3,8 +3,8 @@ Website - Resurrection Remix OS
 
 
 The website can be accessed through the following URLs:
-> - http://www.resurrectionremix.com
-> - http://xenon92.github.io/resurrectionremix-website/
+> - https://resurrectionremix.com
+> - https://resurrectionremix.github.io
 
 
 #### Resources
